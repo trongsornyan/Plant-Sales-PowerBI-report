@@ -1,5 +1,4 @@
-# Plant Co. Sales Performance Dashboard (Power BI)
-
+# Plant Co. Sales Performance Dashboard
 ## Overview  
 This project analyzes Plant Co.’s global sales performance from 2022 to 2024 to help stakeholders understand financial trends, profit drivers, and underperforming markets.  
 The dashboard enables dynamic exploration of Year-to-Date (YTD) performance, product segmentation, and country-level profitability, supporting data-driven business decisions.
@@ -86,6 +85,6 @@ The model follows a star schema structure linking fact and dimension tables thro
 Brisbane, Australia  
 Email: [trongsorn.yan@gmail.com](mailto:trongsorn.yan@gmail.com)  
 LinkedIn: [linkedin.com/in/trongsornyan](https://www.linkedin.com/in/trongsornyan/)  
-Portfolio: [tammy-portfolio.notion.site]([https://tammy-portfolio.notion.site](https://tammy-portfolio.notion.site))
+Portfolio: [tammy-portfolio.notion.site]([https://tammy-portfolio.notion.site](https://tammy-portfolio.notion.site/TAMMY-S-DATA-PORTFOLIO-19833cc1e32c80f6a884c93f6b0cd311))
 
 
